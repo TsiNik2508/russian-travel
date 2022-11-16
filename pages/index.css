@@ -19,3 +19,5 @@
 @import url(..//blocks/intro/_list/intro__list.css);
 @import url(..//blocks/intro/_list-digits/intro__list-digits.css);
 @import url(../blocks/intro/_span/intro__span.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/_item/photo-grid__item.css);
