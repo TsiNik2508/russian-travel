@@ -4,9 +4,8 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 163%;
-  color: #FFFFFF;
-  margin: 0 0 25px 0;
   grid-column: 2;
+  margin: 0 0 25px 0;
 }
 
 .place__paragraph:last-of-type {
@@ -16,15 +15,15 @@
 @media screen and (max-width: 768px) {
   .place__paragraph {
     font-size: 16px;
-    line-height: 26.08px;
+    line-height: 163%;
+    margin-left: 24px;
+    margin-right: 28px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .place__paragraph {
     grid-column: 1;
-    margin-left: 24px;
-    margin-right: 24px;
   }
   
   .place__paragraph:first-of-type {
@@ -35,6 +34,6 @@
 @media screen and (max-width: 320px) {
   .place__paragraph {
     margin: 0 auto 25px auto;
-    max-width: 90%;
+    max-width: 288px;
   }
 }

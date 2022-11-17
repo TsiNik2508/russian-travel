@@ -2,7 +2,26 @@
     background-color: #2A2C2F;
     color: white;
     width: 100%;
+    max-width: 1280px;
     margin: 0 auto;
     font-family: "Inter", sans-serif;
     text-rendering: optimizeLegibility;
 }
+
+@media screen and (max-width: 1024px) {
+    .page {
+      max-width: 1024px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .page {
+      max-width: 768px;
+    }
+  }
+  
+  @media screen and (max-width: 320px) {
+    .page {
+      max-width: 320px;
+    }
+  }

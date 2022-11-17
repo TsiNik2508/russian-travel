@@ -1,5 +1,4 @@
 .place__link {
-  margin: 12px 0 0 0;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -8,6 +7,7 @@
   text-decoration-line: underline;
   color: #FFFFFF;
   transition: .2s ease-in-out;
+  margin: 0;
 }
 
 .place__link:hover{

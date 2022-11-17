@@ -1,0 +1,22 @@
+.cover__title {
+  max-width: 560px;
+  margin: 0 auto;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  text-align: center;
+  color: #FFFFFF;
+  z-index: 2;
+}
+
+@media screen and (max-width: 370px) {
+  .cover__title {
+    max-width: 255px;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
+
+/* С этого разрешения - появлеяется скролл, если не изменить размеры */

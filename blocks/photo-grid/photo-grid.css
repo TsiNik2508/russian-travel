@@ -1,5 +1,5 @@
 .photo-grid {
-  margin: 0 48px 92px;
+  padding: 0 48px 92px;
   max-width: calc(100% - 96px);
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -21,7 +21,7 @@
     grid-template-rows: repeat(6, 1fr);
     grid-template-columns: repeat(2, 1fr);
     gap: 16px 16px;
-    margin: 0 48px 88px;
+    padding: 0 48px 88px;
   }
 }
 
@@ -31,6 +31,6 @@
     grid-template-rows: repeat(12, 1fr);
     grid-template-columns: repeat(1, 1fr);
     row-gap: 12px;
-    margin: 0 auto 64px;
+    padding: 0 auto 64px;
   }
 }
