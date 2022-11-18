@@ -18,3 +18,11 @@
       max-width: 90%;
     }
   }
+
+  @media screen and (max-width: 450px) {
+    .lead__title {
+      padding: 0 14px;
+      font-size: 12vw;
+      max-width: 288px;
+    }
+  }
