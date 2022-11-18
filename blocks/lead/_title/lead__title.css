@@ -12,15 +12,14 @@
   
   @media screen and (max-width: 767px) {
     .lead__title {
-      margin: 0 16px;
       font-size: 40px;
       line-height: 44px;
-      max-width: 288px;
+      max-width: calc(100% - 32px);
     }
   }
 
   @media screen and (max-width: 450px) {
     .lead__title {
-      margin: 0 14px;
+      max-width: calc(100% - 28px);;
     }
   }
