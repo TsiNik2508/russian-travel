@@ -1,18 +1,14 @@
 .header__links {
-  padding: 46px 0 0;
   margin: 0;
-  list-style-type: none;
+  padding: 0 0 6px 0;
+  list-style: none;
   display: flex;
+  align-items:flex-end;
+  gap: 18px;
 }
 
 @media screen and (max-width: 767px) {
-  .header__lang-links {
-    padding-bottom: 8px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .header__list {
-    padding: 30px 0 0;
+  .header__links {
+    padding: 0 0 8px 0;
   }
 }
