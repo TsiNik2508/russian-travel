@@ -16,6 +16,17 @@
 @media screen and (max-width: 767px) {
   .footer {
     flex-direction: column;
-    padding: 0 0 24px 16px;
+    margin: 0 auto;
+    padding-bottom: 24px;
+    align-items: center;
+
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer {
+    padding-left: 16px;
+    padding-right: 16px;
+    align-items: flex-start;
   }
 }
