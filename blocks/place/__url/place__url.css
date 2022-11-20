@@ -9,3 +9,9 @@
   text-transform: uppercase;
   margin: 0;
 }
+
+@media screen and (max-width: 425px) {
+  .place__url {
+    padding: 0 16px;
+  }
+}
