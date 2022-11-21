@@ -7,8 +7,6 @@
   text-decoration-line: underline;
   color: #FFFFFF;
   transition: .2s ease-in-out;
-  margin: 0;
-  max-width: fit-content;
 }
 
 .place__link:hover{
