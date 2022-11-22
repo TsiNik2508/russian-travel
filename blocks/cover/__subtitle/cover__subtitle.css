@@ -11,10 +11,20 @@
   max-width: 360px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .cover__subtitle {
-    font-size: 14px;
-    line-height: 16px;
-    margin: 16px 15px 0 16px;
+    width: 100%;
+    max-width: 360px;
   }
-}
+  }
+  
+  @media screen and (max-width: 767px) {
+    .cover__subtitle {
+      width: 100%;
+      max-width: 288px;
+      font-size: 14px;
+      line-height: 16px;
+      margin: 16px 16px 32px 16px;
+    }
+    }
+    
