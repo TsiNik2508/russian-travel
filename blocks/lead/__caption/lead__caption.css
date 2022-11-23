@@ -27,7 +27,14 @@
 
 @media screen and (max-width: 767px) {
   .lead__caption {
+    align-self: center;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__caption {
     margin-left: 16px;
+    align-self: flex-start;
   }
 }
 
