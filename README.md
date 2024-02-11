@@ -1,3 +1,5 @@
+# Ru
+
 # Проект "Путешествия по России"
 
 ## Описание
@@ -36,4 +38,46 @@
 ## Макет в Figma
 
 [Макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+
+# En
+
+# Project "Traveling in Russia"
+
+## Description
+
+The "Traveling in Russia" project was created as part of the educational program at [Yandex.Practicum](https://practicum.yandex.com) in the ["Web Developer"](https://practicum.yandex.com/web-development/) specialization. It is a responsive website developed using the Nested BEM file structure methodology. It serves as a guide to the beautiful places of Russia, showcasing the beauty and diversity of our country.
+
+## Technology Stack
+
+- HTML
+- CSS
+- BEM
+
+## Technologies
+
+The "Traveling in Russia" project utilizes the following technologies:
+
+- CSS animation to add liveliness to elements on the page
+- Flexbox layout for creating flexible and responsive layouts
+- Nested BEM file structure for convenient and structured code
+- Iframe for embedding an interactive map
+- Responsive design for optimal display on various devices
+- Font integration to enhance typography
+- Grid for creating grid layouts
+- Git for version control and collaboration
+
+## Future Project Improvements
+
+Future improvements planned for the project include:
+
+- Smooth adaptation when resizing the page for even more comfortable viewing on mobile devices
+
+## Demo
+
+[Page demo](https://tsinik2508.github.io/russian-travel/)
+
+## Figma Layout
+
+[Figma Layout](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+
 
